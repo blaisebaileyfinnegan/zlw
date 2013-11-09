@@ -1,6 +1,8 @@
 zlw
 ===
 
+Unit tests are inside *test.java files. Thanks for reading!
+
 ## Solution for #1
 
 ``` 
